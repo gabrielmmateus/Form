@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto&display=swap');
+div{
+    width: 400px;
+    height: 800px;
+    background-color: #f9f8f6;
+    margin: 0 auto;
+
+}
+    
+#barra_superior{
+    width: 400px;
+    height: 3px;
+    background-color: #FFBB12;
+    margin-bottom: 12px;
+
+}
+
+#quadrado{
+    width: 25px;
+    height: 25px;
+    background-color: #FFBB12;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+#inscrever{
+    color: #464237;
+    font-size: 36px;
+    font-family: 'roboto';
+    font-weight: bold;
+    margin-left: 25px;
+    margin-top: -30px;
+}
+
+#fundo_form{
+    width: 355px;
+    height: 640px;
+    background-color: #FFF;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding-top: 15px;
+}
+
+#label_nome{
+    margin-left: 13px;
+    font-size: 16px;
+    font-family: 'inter';
+    font-weight: 700;
+}
+
+#input_nome{
+    width: 325px;
+    height: 40px;
+    margin-left: 13px;
+    background-color: #f9f8f6;
+    border-radius:5px;
+    box-shadow: 0px 0px 0px 0px #D2CEC5;
+    outline: none;
+    margin-bottom: 20px;
+    padding-left: 5px;
+}
+
+#label_email{
+    margin-left: 13px;
+    font-size: 16px;
+    font-family: 'inter';
+    font-weight: 700;
+}
+
+#input_email{
+    width: 325px;
+    height: 40px;
+    margin-left: 13px;
+    background-color: #f9f8f6;
+    border-radius:5px;
+    box-shadow: 0px 0px 0px 0px #D2CEC5 ; 
+    outline: none;
+    margin-bottom: 20px;
+    padding-left: 5px;
+    padding-left: 5px;
+    
+
+}
+
+#label_senha{
+    margin-left: 13px;
+    font-size: 16px;
+    font-family: 'inter';
+    font-weight: 700;
+}
+
+#input_password{
+    width: 325px;
+    height: 40px;
+    margin-left: 13px;
+    background-color: #f9f8f6;
+    border-radius:5px;
+    box-shadow: 0px 0px 0px 0px #D2CEC5 ; 
+    outline: none;
+    margin-bottom: 20px;
+    padding-left: 5px;
+    
+}
+
+
+
+
+#label_cep{
+    margin-left: 13px;
+    font-size: 16px;
+    font-family: 'inter';
+    font-weight: 700;
+    
+}
+
+#input_cep{
+    width: 140px;
+    height: 40px;
+    margin-left: 13px;
+    background-color: #f9f8f6;
+    border-radius:5px;
+    box-shadow: 0px 0px 0px 0px #D2CEC5 ; 
+    outline: none;
+    margin-bottom: 20px;
+    padding-left: 5px;
+    
+}
+
+#label_numero{
+    margin-left: 132px;
+    font-size: 16px;
+    font-family: 'inter';
+    font-weight: 700;
+}
+
+#input_numero{
+    width: 155px;
+    height: 40px;
+    margin-left: 13px;
+    background-color: #f9f8f6;
+    border-radius:5px;
+    box-shadow: 0px 0px 0px 0px #D2CEC5 ; 
+    outline: none;
+    margin-bottom: 20px;
+    padding-left: 5px;
+}
+
+#label_rua{
+    margin-left: 13px;
+    font-size: 16px;
+    font-family: 'inter';
+    font-weight: 700;
+}
+
+#input_rua{
+    width: 325px;
+    height: 40px;
+    margin-left: 13px;
+    background-color: #f9f8f6;
+    border-radius:5px;
+    box-shadow: 0px 0px 0px 0px #D2CEC5 ; 
+    outline: none;
+    margin-bottom: 20px;
+    padding-left: 5px;
+
+}
+
+#label_cidade{
+    margin-left: 13px;
+    font-size: 16px;
+    font-family: 'inter';
+    font-weight: 700;
+}
+#select_cidade{
+    width: 335px;
+    height: 50px;
+    margin-left: 13px;
+    background-color: #f9f8f6;
+    border-radius:5px;
+    box-shadow: 0px 0px 1px 1px #D2CEC5 ; 
+    border-color: black;
+    outline: none;
+    margin-bottom: 20px;
+    padding-left: 5px;
+}
+
+#label_termos{
+    margin-left: 1px;
+    font-size: 16px;
+    font-family: 'inter';
+    font-weight: 700;
+}
+
+#chk_termos{
+    border-radius: 5px;
+    font-family: 'roboto';
+    font-size: 18px;
+    margin-left: 13px;
+    margin-bottom: 20px;
+    background-color: #f9f8f6;
+}
+
+#btn_enviar{
+    margin-left: 13px;
+    background-color: #FFBB12;
+    border: 0;
+    width: 180px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    font: 16px 'inter';
+    font-weight: bold;
+    color: #764701;
+}
